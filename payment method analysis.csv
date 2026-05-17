@@ -1,0 +1,9 @@
+PaymentMethod,Churn,total
+"Electronic check",No,1294
+"Mailed check",No,1296
+"Mailed check",Yes,308
+"Bank transfer (automatic)",No,1284
+"Electronic check",Yes,1071
+"Credit card (automatic)",No,1289
+"Bank transfer (automatic)",Yes,258
+"Credit card (automatic)",Yes,232

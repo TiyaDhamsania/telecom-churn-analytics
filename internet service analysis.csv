@@ -1,0 +1,7 @@
+InternetService,Churn,total
+DSL,No,1957
+DSL,Yes,459
+"Fiber optic",Yes,1297
+"Fiber optic",No,1799
+No,No,1407
+No,Yes,113
